@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CodeCamp_1-Birthday_Reminder/static/css/main.a25574c1.chunk.css",
+    "main.js": "/CodeCamp_1-Birthday_Reminder/static/js/main.38d5966b.chunk.js",
+    "main.js.map": "/CodeCamp_1-Birthday_Reminder/static/js/main.38d5966b.chunk.js.map",
+    "runtime-main.js": "/CodeCamp_1-Birthday_Reminder/static/js/runtime-main.0747191f.js",
+    "runtime-main.js.map": "/CodeCamp_1-Birthday_Reminder/static/js/runtime-main.0747191f.js.map",
+    "static/js/2.1f771bf1.chunk.js": "/CodeCamp_1-Birthday_Reminder/static/js/2.1f771bf1.chunk.js",
+    "static/js/2.1f771bf1.chunk.js.map": "/CodeCamp_1-Birthday_Reminder/static/js/2.1f771bf1.chunk.js.map",
+    "index.html": "/CodeCamp_1-Birthday_Reminder/index.html",
+    "precache-manifest.62056015d5b2b6df255670eea49a5a80.js": "/CodeCamp_1-Birthday_Reminder/precache-manifest.62056015d5b2b6df255670eea49a5a80.js",
+    "service-worker.js": "/CodeCamp_1-Birthday_Reminder/service-worker.js",
+    "static/css/main.a25574c1.chunk.css.map": "/CodeCamp_1-Birthday_Reminder/static/css/main.a25574c1.chunk.css.map",
+    "static/js/2.1f771bf1.chunk.js.LICENSE.txt": "/CodeCamp_1-Birthday_Reminder/static/js/2.1f771bf1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0747191f.js",
+    "static/js/2.1f771bf1.chunk.js",
+    "static/css/main.a25574c1.chunk.css",
+    "static/js/main.38d5966b.chunk.js"
+  ]
+}
